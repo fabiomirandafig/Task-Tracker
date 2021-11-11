@@ -1,4 +1,4 @@
-# vue-crash-2021
+# Aplicação criada durante o Vue JS Crash Course do canal Traversy Media
 
 ## Project setup
 ```
